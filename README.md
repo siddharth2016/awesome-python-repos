@@ -21,7 +21,7 @@ If there is a need to create a new folder, please create a PR or an issue to hig
 
 ### How To Add Your Repo?
 
-Go to the respective folder where your project fits the most. For example, I want to add a project to [GameDev](./GameDev) folder, then I will go to its [README.md](./GameDev/README.md) file and add my github username in details tags with the project links, like below:
+Go to the respective folder where your project fits the most. For example, If I want to add a project to [GameDev](./GameDev) folder, then I will go to its [README.md](./GameDev/README.md) file and add my github username in details tags with the project links, like below:
 
 ```md
 <details>
