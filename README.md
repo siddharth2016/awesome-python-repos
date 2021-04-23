@@ -19,6 +19,21 @@ Similarly, all game developement related projects gets featured in [GameDev](./G
 
 If there is a need to create a new folder, please create a PR or an issue to highlight the same.
 
+### How To Add Your Repo?
+
+Go to the respective folder where your project fits the most. For example, I want to add a project to [GameDev](./GameDev) folder, then I will go to its [README.md](./GameDev/README.md) file and add my github username in details tags with the project links, like below:
+
+```md
+<details>
+  <summary>
+    <a href="https://github.com/siddharth2016">siddharth2016</a>
+  </summary>
+  <a href="https://github.com/siddharth2016/PongPong">PongPong</a></br>
+  <a href="https://github.com/siddharth2016/snake-game">snake-game</a>
+</details>
+```
+
+Please, make sure to have 1 line of space between your and others detail tags. Create a PR with your changes and I will make sure to merge them within 24 hours.
 
 ### Anything Else?
 
